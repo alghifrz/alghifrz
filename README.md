@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am an undergraduate student in Computer Science with a strong interest in IT, particularly in Data Science, Game Development, and Full Stack Development. I am very excited to continue learning new things, as I believe that experience is the most valuable teacher.
-
+ An undergraduate student at Pertamina University majoring in Computer Science, with a GPA of 3.89 out of 4.00. Strong interest in software development, machine learning, web development, and data science. Experienced in developing applications using Java Swing and 
+ PyQt5, as well as web development with HTML, CSS, JavaScript, TypeScript, and frameworks or libraries like Laravel, Next.js, React.js, and Tailwind. Additionally, actively engaged in student organizations and enjoy sharing knowledge as a tutor, which helps develop both technical and leadership skills
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agifrz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alghifarirasyidzola) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](http://www.youtube.com/@alghifarirasyidzola3500) 
